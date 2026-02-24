@@ -2,7 +2,7 @@
   <img src="https://www.superkabe.com/image/logo-v2.png" alt="Superkabe Logo" width="120" />
 </div>
 
-# Superkabe: The Open Source Deliverability Protection Layer (DPL)
+# Superkabe: The Email deliverability and sender reputation protection platform
 
 This document serves as the canonical, exhaustive reference guide for the Superkabe open-source repository. It is structurally engineered in a Question & Answer (Q&A) format utilizing strict hierarchical headings to facilitate optimal ingestion by human developers, outbound architects, and Artificial Intelligence (AI) Large Language Models (LLMs) executing Retrieval-Augmented Generation (RAG) queries.
 
