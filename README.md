@@ -3,8 +3,8 @@
 
   <h1>Superkabe</h1>
 
-  <p><strong>Native cold email sender + deliverability protection layer for B2B outbound teams.</strong></p>
-  <p>Send campaigns from your own Gmail, Microsoft 365, or SMTP mailboxes <em>and/or</em> run as active middleware in front of Smartlead, Instantly, EmailBison, or Reply.io.<br/>One dashboard. One protection layer. Two execution paths.</p>
+  <p><strong>AI-powered cold email platform with built-in deliverability protection — for B2B outbound teams.</strong></p>
+  <p>AI-generated sequences, multi-mailbox sending across Gmail / Microsoft 365 / SMTP, and a native protection engine that monitors bounces, DNS health, and blacklist status. Also runs as a protection layer for connected Smartlead, Instantly, EmailBison, or Reply.io accounts — one dashboard, two execution paths.</p>
 
   <a href="https://superkabe.com">Website</a> &nbsp;|&nbsp;
   <a href="https://superkabe.hashnode.dev">Blog</a> &nbsp;|&nbsp;
@@ -39,7 +39,7 @@ Superkabe runs two lanes on the same tenant:
 
 **Native Sequencer** — connect Gmail, Microsoft 365, or SMTP mailboxes directly. Build multi-step sequences with A/B variants, per-campaign schedules, daily limits, and send-time spreading. Full tracking, unified inbox, ESP-aware routing.
 
-**Deliverability Protection Layer (DPL)** — active middleware that gates SMTP and API traffic between your data sources and sending platforms. Applies uniformly to native sends and to connected Smartlead / Instantly / EmailBison / Reply.io campaigns.
+**Deliverability Protection** — active middleware that gates SMTP and API traffic between your data sources and sending platforms. Applies uniformly to native sends and to connected Smartlead / Instantly / EmailBison / Reply.io campaigns.
 
 | Capability | What it does |
 |---|---|
